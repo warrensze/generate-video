@@ -1,4 +1,5 @@
 <div align="center">
+<p align="center"><strong>generate-video</strong> — this repository is a copy of the original <a href="https://github.com/harry0703/MoneyPrinterTurbo">MoneyPrinterTurbo</a> repository by harry0703.</p>
 <h1 align="center">MoneyPrinterTurbo 💸</h1>
 
 <p align="center">
